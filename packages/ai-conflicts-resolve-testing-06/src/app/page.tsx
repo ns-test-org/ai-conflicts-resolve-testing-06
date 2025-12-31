@@ -3,7 +3,7 @@ export default function Landing() {
     <div className="min-h-screen w-full flex flex-col items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 px-6">
       <main className="text-center max-w-4xl">
         <h1 className="text-6xl md:text-8xl font-bold text-gray-900 mb-6">
-          Hello, World!
+          Christmas
         </h1>
         
         <p className="text-xl md:text-2xl text-gray-700 mb-12">
@@ -17,4 +17,5 @@ export default function Landing() {
     </div>
   );
 }
+
 
