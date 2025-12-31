@@ -2,7 +2,7 @@ export default function Landing() {
   return (
     <div className="min-h-screen w-full flex flex-col items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 px-6">
       <main className="text-center max-w-4xl">
-        <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent animate-fade-in-up">
+        <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-black to-white bg-clip-text text-transparent">
           Merry Christmas
         </h1>
         
@@ -17,6 +17,7 @@ export default function Landing() {
     </div>
   );
 }
+
 
 
 
